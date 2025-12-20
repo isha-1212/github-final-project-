@@ -1,3 +1,3 @@
 # Simple Interest Calculator
 
-This project contains a simple bash script to calculate simple interest using principal, rate, and time.
+This project calculates simple interest based on principal, rate, and time.
