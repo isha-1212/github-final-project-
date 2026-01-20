@@ -1,7 +1,7 @@
 git checkout main
 Switched to branch 'main'
 
-$ git merge bug-fix-typo
+git merge bug-fix-typo
 Updating b658e35..68d29bb
 Fast-forward
  README.md | 1 +
