@@ -1,3 +1,19 @@
 curl https://api.github.com/repos/isha-1212/github-final-project-/pulls
 
+[
+  {
+    "head": {
+      "repo": {
+        "full_name": "isha-1212/github-final-project-"
+      }
+    },
+    "base": {
+      "repo": {
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
+curl https://api.github.com/repos/isha-1212/github-final-project-/pulls
+
 []
