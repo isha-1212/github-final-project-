@@ -2,3 +2,4 @@
 
 This project calculates simple interest based on principal, rate, and time.
 Minor typo fixed
+Another minor typo fix
